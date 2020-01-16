@@ -1,0 +1,11 @@
+﻿  AnimatedObject.cpp
+  AudioPlayer.cpp
+  Game.cpp
+  main.cpp
+  Map.cpp
+  Player.cpp
+  StartScreen.cpp
+  TextBox.cpp
+  TextureManager.cpp
+  Generating Code...
+  MLIN_SDL.vcxproj -> C:\SDL\MLIN_SDL\Debug\MLIN_SDL.exe
